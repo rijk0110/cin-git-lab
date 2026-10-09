@@ -1,1 +1,2 @@
 Task 1: Learn Git basics
+Task 2: Practice Git staging
