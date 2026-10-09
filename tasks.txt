@@ -1,2 +1,4 @@
 Task 1: Learn Git basics
 Task 2: Practice Git staging
+Task 3: Practice staged changes
+Task 4: Practice unstaged changes
